@@ -1,0 +1,16 @@
+.kub{
+	color: green;
+	background-color: green;
+	width: 300px;
+	height: 400px;
+	animation:3s infinite;
+	animation-name: lorem;
+}
+@keyfremes lorem{
+from{
+	color: red;
+}
+to{
+	color:green;
+}
+}
